@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71900.aar" >
+        <source path="C:\Users\Doug\AndroidStudioProjects\DougsTipCalculatorProject\DougsTipCalculator\build\exploded-bundles\ComAndroidSupportAppcompatV71900.aar\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Doug\AndroidStudioProjects\DougsTipCalculatorProject\DougsTipCalculator\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Doug\AndroidStudioProjects\DougsTipCalculatorProject\DougsTipCalculator\src\debug\assets" />
+    </dataSet>
+
+</merger>
